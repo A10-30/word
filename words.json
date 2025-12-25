@@ -1,0 +1,1512 @@
+[
+  {
+    "word": "abandon",
+    "phonetic": "/əˈbændən/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.放弃；抛弃，遗弃 n.放任，放纵"
+  },
+  {
+    "word": "ability",
+    "phonetic": "/əˈbɪləti/",
+    "partOfSpeech": "n.",
+    "definition": "能力；才能，本领"
+  },
+  {
+    "word": "able",
+    "phonetic": "/ˈeɪbl/",
+    "partOfSpeech": "adj.",
+    "definition": "能够的；有能力的，能干的"
+  },
+  {
+    "word": "abnormal",
+    "phonetic": "/æbˈnɔːml/",
+    "partOfSpeech": "adj.",
+    "definition": "反常的，异常的；变态的"
+  },
+  {
+    "word": "aboard",
+    "phonetic": "/əˈbɔːd/",
+    "partOfSpeech": "adv./prep.",
+    "definition": "adv.在船（车、飞机）上；上船（车、飞机） prep.在…上"
+  },
+  {
+    "word": "abolish",
+    "phonetic": "/əˈbɒlɪʃ/",
+    "partOfSpeech": "v.",
+    "definition": "废除，废止（法律、制度、习俗等）"
+  },
+  {
+    "word": "abortion",
+    "phonetic": "/əˈbɔːʃn/",
+    "partOfSpeech": "n.",
+    "definition": "流产，堕胎；（计划等的）夭折"
+  },
+  {
+    "word": "about",
+    "phonetic": "/əˈbaʊt/",
+    "partOfSpeech": "prep./adv./adj.",
+    "definition": "prep.关于；在…周围 adv.大约；到处 adj.准备好的"
+  },
+  {
+    "word": "above",
+    "phonetic": "/əˈbʌv/",
+    "partOfSpeech": "prep./adv./adj./n.",
+    "definition": "prep.在…上方；超过 adv.在上面；以上 adj.上面的 n.上面的部分"
+  },
+  {
+    "word": "abroad",
+    "phonetic": "/əˈbrɔːd/",
+    "partOfSpeech": "adv.",
+    "definition": "在国外，到海外；广泛地"
+  },
+  {
+    "word": "abrupt",
+    "phonetic": "/əˈbrʌpt/",
+    "partOfSpeech": "adj.",
+    "definition": "突然的，意外的；（举止、言谈等）唐突的"
+  },
+  {
+    "word": "absence",
+    "phonetic": "/ˈæbsəns/",
+    "partOfSpeech": "n.",
+    "definition": "缺席，不在场；缺乏，不存在"
+  },
+  {
+    "word": "absent",
+    "phonetic": "/ˈæbsənt/; /æbˈsent/",
+    "partOfSpeech": "adj./v.",
+    "definition": "adj.缺席的；缺少的 v.缺席，缺勤"
+  },
+  {
+    "word": "absolute",
+    "phonetic": "/ˈæbsəluːt/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.绝对的；完全的；专制的 n.绝对真理（指思想或原理）"
+  },
+  {
+    "word": "absolutely",
+    "phonetic": "/ˈæbsəluːtli/",
+    "partOfSpeech": "adv.",
+    "definition": "绝对地；完全地；肯定地"
+  },
+  {
+    "word": "absorb",
+    "phonetic": "/əbˈsɔːb/; /əbˈzɔːb/",
+    "partOfSpeech": "v.",
+    "definition": "吸收（液体、气体等）；吸引（注意力）；理解，掌握"
+  },
+  {
+    "word": "abstract",
+    "phonetic": "/ˈæbstrækt/; /æbˈstrækt/",
+    "partOfSpeech": "adj./n./v.",
+    "definition": "adj.抽象的；抽象派的 n.摘要，概要；抽象派艺术作品 v.提取；抽象化；摘录"
+  },
+  {
+    "word": "absurd",
+    "phonetic": "/əbˈsɜːd/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.荒谬的，荒唐的；不合理的 n.荒诞的事物"
+  },
+  {
+    "word": "abundant",
+    "phonetic": "/əˈbʌndənt/",
+    "partOfSpeech": "adj.",
+    "definition": "大量的，丰盛的；充裕的"
+  },
+  {
+    "word": "abuse",
+    "phonetic": "/əˈbjuːs/; /ˈæbjuːs/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.滥用，妄用；虐待；辱骂 n.滥用；虐待；辱骂"
+  },
+  {
+    "word": "academic",
+    "phonetic": "/ˌækəˈdemɪk/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.学术的；学院的；理论的 n.学者；大学生，大学教师"
+  },
+  {
+    "word": "academy",
+    "phonetic": "/əˈkædəmi/",
+    "partOfSpeech": "n.",
+    "definition": "学院；研究院；学会；专科院校"
+  },
+  {
+    "word": "accelerate",
+    "phonetic": "/əkˈseləreɪt/",
+    "partOfSpeech": "v.",
+    "definition": "（使）加速，加快；促进"
+  },
+  {
+    "word": "acceleration",
+    "phonetic": "/əkˌseləˈreɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "加速；加速度；促进"
+  },
+  {
+    "word": "accent",
+    "phonetic": "/ˈæksent/; /əkˈsent/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.口音，腔调；重音；强调 v.重读；强调"
+  },
+  {
+    "word": "accept",
+    "phonetic": "/əkˈsept/",
+    "partOfSpeech": "v.",
+    "definition": "接受；承认，认可；同意，答应"
+  },
+  {
+    "word": "acceptable",
+    "phonetic": "/əkˈseptəbl/",
+    "partOfSpeech": "adj.",
+    "definition": "可接受的；合意的；尚可的"
+  },
+  {
+    "word": "acceptance",
+    "phonetic": "/əkˈseptəns/",
+    "partOfSpeech": "n.",
+    "definition": "接受；承认，认可；容忍"
+  },
+  {
+    "word": "access",
+    "phonetic": "/ˈækses/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.通道，入口；接近（或进入）的机会；使用权 v.访问，存取（计算机数据）"
+  },
+  {
+    "word": "accessible",
+    "phonetic": "/əkˈsesəbl/",
+    "partOfSpeech": "adj.",
+    "definition": "易接近的，可到达的；易理解的；平易近人的"
+  },
+  {
+    "word": "accident",
+    "phonetic": "/ˈæksɪdənt/",
+    "partOfSpeech": "n.",
+    "definition": "事故，意外事件；偶然因素，机遇"
+  },
+  {
+    "word": "accidental",
+    "phonetic": "/ˌæksɪˈdentl/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.意外的，偶然的 n.偶然事件；（音乐）临时符"
+  },
+  {
+    "word": "accommodate",
+    "phonetic": "/əˈkɒmədeɪt/",
+    "partOfSpeech": "v.",
+    "definition": "容纳；为…提供住宿（或膳宿）；适应，迁就"
+  },
+  {
+    "word": "accommodation",
+    "phonetic": "/əˌkɒməˈdeɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "住宿，膳宿；住处；和解，调解"
+  },
+  {
+    "word": "accompany",
+    "phonetic": "/əˈkʌmpəni/",
+    "partOfSpeech": "v.",
+    "definition": "陪伴，陪同；伴随；为…伴奏"
+  },
+  {
+    "word": "accomplish",
+    "phonetic": "/əˈkʌmplɪʃ/",
+    "partOfSpeech": "v.",
+    "definition": "完成（任务等）；实现（目标等）；达到（目的）"
+  },
+  {
+    "word": "accord",
+    "phonetic": "/əˈkɔːd/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.协议，协定；符合，一致 v.给予；符合，相一致"
+  },
+  {
+    "word": "accordingly",
+    "phonetic": "/əˈkɔːdɪŋli/",
+    "partOfSpeech": "adv.",
+    "definition": "因此，所以；照着，相应地"
+  },
+  {
+    "word": "account",
+    "phonetic": "/əˈkaʊnt/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.账户；账目；描述；解释；原因 v.认为；说明；占（比例）"
+  },
+  {
+    "word": "accountant",
+    "phonetic": "/əˈkaʊntənt/",
+    "partOfSpeech": "n.",
+    "definition": "会计，会计师"
+  },
+  {
+    "word": "accumulate",
+    "phonetic": "/əˈkjuːmjəleɪt/",
+    "partOfSpeech": "v.",
+    "definition": "（使）积累，积聚；（数量）逐渐增加"
+  },
+  {
+    "word": "accuracy",
+    "phonetic": "/ˈækjərəsi/",
+    "partOfSpeech": "n.",
+    "definition": "准确（性），精确（性）"
+  },
+  {
+    "word": "accurate",
+    "phonetic": "/ˈækjərət/",
+    "partOfSpeech": "adj.",
+    "definition": "准确的，精确的；正确无误的"
+  },
+  {
+    "word": "accuse",
+    "phonetic": "/əˈkjuːz/",
+    "partOfSpeech": "v.",
+    "definition": "指责，指控；控告"
+  },
+  {
+    "word": "accustom",
+    "phonetic": "/əˈkʌstəm/",
+    "partOfSpeech": "v.",
+    "definition": "使习惯（于），使适应"
+  },
+  {
+    "word": "ache",
+    "phonetic": "/eɪk/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.疼痛；渴望 n.疼痛"
+  },
+  {
+    "word": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "partOfSpeech": "v.",
+    "definition": "（凭长期努力）达到（目标），取得（成就）；完成"
+  },
+  {
+    "word": "achievement",
+    "phonetic": "/əˈtʃiːvmənt/",
+    "partOfSpeech": "n.",
+    "definition": "成就，成绩；达到，完成"
+  },
+  {
+    "word": "acid",
+    "phonetic": "/ˈæsɪd/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.酸的；酸性的；尖酸刻薄的 n.酸；酸性物质"
+  },
+  {
+    "word": "acknowledge",
+    "phonetic": "/əkˈnɒlɪdʒ/",
+    "partOfSpeech": "v.",
+    "definition": "承认；感谢；告知收到"
+  },
+  {
+    "word": "acquaint",
+    "phonetic": "/əˈkweɪnt/",
+    "partOfSpeech": "v.",
+    "definition": "使了解，使熟悉；使认识"
+  },
+  {
+    "word": "acquaintance",
+    "phonetic": "/əˈkweɪntəns/",
+    "partOfSpeech": "n.",
+    "definition": "熟人；相识，了解"
+  },
+  {
+    "word": "acquire",
+    "phonetic": "/əˈkwaɪə(r)/",
+    "partOfSpeech": "v.",
+    "definition": "获得，取得；学到（知识、技能）；养成（习惯）"
+  },
+  {
+    "word": "acquisition",
+    "phonetic": "/ˌækwɪˈzɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "获得，取得；习得；收购的公司（或资产）"
+  },
+  {
+    "word": "acre",
+    "phonetic": "/ˈeɪkə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "英亩；（pl.）大量"
+  },
+  {
+    "word": "across",
+    "phonetic": "/əˈkrɒs/",
+    "partOfSpeech": "prep./adv.",
+    "definition": "prep.横过，穿过；在…对面；遍及 adv.横过，穿过；从一边到另一边"
+  },
+  {
+    "word": "act",
+    "phonetic": "/ækt/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.行动；做事；起作用；扮演（戏剧、电影中的角色） n.行为，举动；法令，法案；（戏剧的）一幕"
+  },
+  {
+    "word": "action",
+    "phonetic": "/ˈækʃn/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.行动，活动；行为；作用；情节 v.处理，采取行动"
+  },
+  {
+    "word": "active",
+    "phonetic": "/ˈæktɪv/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.积极的，活跃的；主动的；有效的 n.（语法）主动语态；积极分子"
+  },
+  {
+    "word": "activity",
+    "phonetic": "/ækˈtɪvəti/",
+    "partOfSpeech": "n.",
+    "definition": "活动，行动；活跃，活力；（pl.）活动安排"
+  },
+  {
+    "word": "actor",
+    "phonetic": "/ˈæktə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "男演员；行动者，参与者"
+  },
+  {
+    "word": "actress",
+    "phonetic": "/ˈæktrəs/",
+    "partOfSpeech": "n.",
+    "definition": "女演员"
+  },
+  {
+    "word": "actual",
+    "phonetic": "/ˈæktʃuəl/",
+    "partOfSpeech": "adj.",
+    "definition": "实际的，真实的；现行的，目前的"
+  },
+  {
+    "word": "actually",
+    "phonetic": "/ˈæktʃuəli/",
+    "partOfSpeech": "adv.",
+    "definition": "实际上，事实上；竟然；确实"
+  },
+  {
+    "word": "acute",
+    "phonetic": "/əˈkjuːt/",
+    "partOfSpeech": "adj.",
+    "definition": "严重的，急性的；尖锐的；敏锐的；剧烈的"
+  },
+  {
+    "word": "adapt",
+    "phonetic": "/əˈdæpt/",
+    "partOfSpeech": "v.",
+    "definition": "（使）适应，适合；改编，改写"
+  },
+  {
+    "word": "adaptation",
+    "phonetic": "/ˌædæpˈteɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "适应；改编本，改写本"
+  },
+  {
+    "word": "add",
+    "phonetic": "/æd/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.加，增加；补充说，继续说；添加 n.加法；添加物"
+  },
+  {
+    "word": "addition",
+    "phonetic": "/əˈdɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "加，加法；增加物；（数学）加法"
+  },
+  {
+    "word": "additional",
+    "phonetic": "/əˈdɪʃənl/",
+    "partOfSpeech": "adj.",
+    "definition": "附加的，额外的，另外的"
+  },
+  {
+    "word": "address",
+    "phonetic": "/əˈdres/; /ˈædres/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.地址；住址；演讲；称呼 v.写地址；演说；称呼；处理，解决"
+  },
+  {
+    "word": "adequate",
+    "phonetic": "/ˈædɪkwət/",
+    "partOfSpeech": "adj.",
+    "definition": "足够的，充足的；适当的，胜任的"
+  },
+  {
+    "word": "adjust",
+    "phonetic": "/əˈdʒʌst/",
+    "partOfSpeech": "v.",
+    "definition": "调整，校正；适应，习惯"
+  },
+  {
+    "word": "adjustment",
+    "phonetic": "/əˈdʒʌstmənt/",
+    "partOfSpeech": "n.",
+    "definition": "调整，校正；适应，调节"
+  },
+  {
+    "word": "administer",
+    "phonetic": "/ədˈmɪnɪstə(r)/",
+    "partOfSpeech": "v.",
+    "definition": "管理，治理；施行，实施；给予，投（药）"
+  },
+  {
+    "word": "administration",
+    "phonetic": "/ədˌmɪnɪˈstreɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "管理，经营；行政部门；政府；施行，实施"
+  },
+  {
+    "word": "admire",
+    "phonetic": "/ədˈmaɪə(r)/",
+    "partOfSpeech": "v.",
+    "definition": "钦佩，赞赏；羡慕；欣赏"
+  },
+  {
+    "word": "admission",
+    "phonetic": "/ədˈmɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "允许进入；入场费；承认，供认"
+  },
+  {
+    "word": "admit",
+    "phonetic": "/ədˈmɪt/",
+    "partOfSpeech": "v.",
+    "definition": "承认，供认；准许进入；准许加入；接纳"
+  },
+  {
+    "word": "adolescent",
+    "phonetic": "/ˌædəˈlesnt/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.青春期的，青少年的 n.青少年"
+  },
+  {
+    "word": "adopt",
+    "phonetic": "/əˈdɒpt/",
+    "partOfSpeech": "v.",
+    "definition": "收养；采纳，采用；正式通过；选定（职业、道路等）"
+  },
+  {
+    "word": "adoption",
+    "phonetic": "/əˈdɒpʃn/",
+    "partOfSpeech": "n.",
+    "definition": "收养；采纳，采用；正式通过"
+  },
+  {
+    "word": "adult",
+    "phonetic": "/ˈædʌlt/; /əˈdʌlt/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.成年的；成熟的 n.成年人"
+  },
+  {
+    "word": "advance",
+    "phonetic": "/ədˈvɑːns/; /ədˈvæns/",
+    "partOfSpeech": "v./n./adj.",
+    "definition": "v.前进，进展；推进，促进；提前；预付 n.前进，进展；预付款；提前；发展 adj.预先的，提前的"
+  },
+  {
+    "word": "advanced",
+    "phonetic": "/ədˈvɑːnst/; /ədˈvænst/",
+    "partOfSpeech": "adj.",
+    "definition": "先进的，高级的；晚期的，后期的；年迈的"
+  },
+  {
+    "word": "advantage",
+    "phonetic": "/ədˈvɑːntɪdʒ/; /ədˈvæntɪdʒ/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.优势，有利条件；好处，利益 v.有利于，使处于优势"
+  },
+  {
+    "word": "adventure",
+    "phonetic": "/ədˈventʃə(r)/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.冒险，奇遇；冒险活动 v.冒险，大胆尝试"
+  },
+  {
+    "word": "adverb",
+    "phonetic": "/ˈædvɜːb/",
+    "partOfSpeech": "n.",
+    "definition": "副词"
+  },
+  {
+    "word": "advertise",
+    "phonetic": "/ˈædvətaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "做广告，宣传；公布，宣传（某事物）；征聘"
+  },
+  {
+    "word": "advertisement",
+    "phonetic": "/ədˈvɜːtɪsmənt/",
+    "partOfSpeech": "n.",
+    "definition": "广告，宣传；广告活动，广告宣传"
+  },
+  {
+    "word": "advice",
+    "phonetic": "/ədˈvaɪs/",
+    "partOfSpeech": "n.",
+    "definition": "建议，劝告；忠告，指点"
+  },
+  {
+    "word": "advise",
+    "phonetic": "/ədˈvaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "劝告，建议；通知，告知；提供咨询"
+  },
+  {
+    "word": "advocate",
+    "phonetic": "/ˈædvəkət/; /ˈædvəkeɪt/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.倡导者，支持者；辩护人，律师 v.拥护，支持，提倡"
+  },
+  {
+    "word": "aeroplane",
+    "phonetic": "/ˈeərəpleɪn/",
+    "partOfSpeech": "n.",
+    "definition": "飞机"
+  },
+  {
+    "word": "affair",
+    "phonetic": "/əˈfeə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "事情，事件；（pl.）事务；私通，风流韵事"
+  },
+  {
+    "word": "affect",
+    "phonetic": "/əˈfekt/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.影响；使改变；（感情上）深深打动；使悲伤（或怜悯等） n.（心理）情感，感情"
+  },
+  {
+    "word": "affection",
+    "phonetic": "/əˈfekʃn/",
+    "partOfSpeech": "n.",
+    "definition": "喜爱，钟爱；感情，爱慕之情"
+  },
+  {
+    "word": "afford",
+    "phonetic": "/əˈfɔːd/",
+    "partOfSpeech": "v.",
+    "definition": "买得起，负担得起；提供，给予；抽得出（时间）"
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "partOfSpeech": "adj.",
+    "definition": "害怕的，恐惧的；担心的；恐怕（用以表示歉意）"
+  },
+  {
+    "word": "Africa",
+    "phonetic": "/ˈæfrɪkə/",
+    "partOfSpeech": "n.",
+    "definition": "非洲"
+  },
+  {
+    "word": "African",
+    "phonetic": "/ˈæfrɪkən/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.非洲的；非洲人的 n.非洲人"
+  },
+  {
+    "word": "after",
+    "phonetic": "/ˈɑːftə(r)/; /ˈæftə(r)/",
+    "partOfSpeech": "prep./adv./conj./adj.",
+    "definition": "prep.在…之后；在…后面；关于；追赶 adv.后来，以后；在后面 conj.在…之后 adj.以后的，后来的"
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "/ˌɑːftəˈnuːn/; /ˌæftəˈnuːn/",
+    "partOfSpeech": "n.",
+    "definition": "下午，午后"
+  },
+  {
+    "word": "afterward",
+    "phonetic": "/ˈɑːftəwəd/; /ˈæftərwərd/",
+    "partOfSpeech": "adv.",
+    "definition": "后来，以后，过后"
+  },
+  {
+    "word": "again",
+    "phonetic": "/əˈɡen/; /əˈɡeɪn/",
+    "partOfSpeech": "adv.",
+    "definition": "再一次，又一次；此外，再者；返回，复原"
+  },
+  {
+    "word": "against",
+    "phonetic": "/əˈɡenst/; /əˈɡeɪnst/",
+    "partOfSpeech": "prep.",
+    "definition": "反对；违反；紧靠，倚；防备；以…为背景；和…相比"
+  },
+  {
+    "word": "age",
+    "phonetic": "/eɪdʒ/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.年龄；时代，时期；寿命，使用年限 v.（使）变老，（使）老化；显老"
+  },
+  {
+    "word": "agency",
+    "phonetic": "/ˈeɪdʒənsi/",
+    "partOfSpeech": "n.",
+    "definition": "代理处，经销处；机构；（政府的）局，署，处"
+  },
+  {
+    "word": "agent",
+    "phonetic": "/ˈeɪdʒənt/",
+    "partOfSpeech": "n./adj./v.",
+    "definition": "n.代理人，代理商；特工，间谍；动因，原因 adj.代理的 v.由…代理"
+  },
+  {
+    "word": "aggressive",
+    "phonetic": "/əˈɡresɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "侵略的，侵犯的；好斗的，挑衅的；有进取心的，积极的"
+  },
+  {
+    "word": "ago",
+    "phonetic": "/əˈɡəʊ/",
+    "partOfSpeech": "adv.",
+    "definition": "以前，以往"
+  },
+  {
+    "word": "agree",
+    "phonetic": "/əˈɡriː/",
+    "partOfSpeech": "v.",
+    "definition": "同意，赞同；（与…）一致，相符；商定，约定；（气候、食物等）适合"
+  },
+  {
+    "word": "agreement",
+    "phonetic": "/əˈɡriːmənt/",
+    "partOfSpeech": "n.",
+    "definition": "协议，协定；同意，一致；（语法）一致，呼应"
+  },
+  {
+    "word": "agricultural",
+    "phonetic": "/ˌæɡrɪˈkʌltʃərəl/",
+    "partOfSpeech": "adj.",
+    "definition": "农业的，农用的；农学的"
+  },
+  {
+    "word": "agriculture",
+    "phonetic": "/ˈæɡrɪkʌltʃə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "农业，农学；农耕"
+  },
+  {
+    "word": "ahead",
+    "phonetic": "/əˈhed/",
+    "partOfSpeech": "adv./adj.",
+    "definition": "adv.在前面，向前；提前，预先；领先 adj.在前的，领先的"
+  },
+  {
+    "word": "aid",
+    "phonetic": "/eɪd/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.援助，帮助；辅助物；助手 v.援助，帮助；资助"
+  },
+  {
+    "word": "aim",
+    "phonetic": "/eɪm/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.瞄准，对准；旨在，致力于；目的是 n.目标，目的；瞄准，对准"
+  },
+  {
+    "word": "air",
+    "phonetic": "/eə(r)/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.空气，大气；天空；神态，气质；广播 v.晾，晒干；通风；播送，广播"
+  },
+  {
+    "word": "aircraft",
+    "phonetic": "/ˈeəkrɑːft/",
+    "partOfSpeech": "n.",
+    "definition": "飞机，航空器"
+  },
+  {
+    "word": "airline",
+    "phonetic": "/ˈeəlaɪn/",
+    "partOfSpeech": "n.",
+    "definition": "航空公司；航线"
+  },
+  {
+    "word": "airport",
+    "phonetic": "/ˈeəpɔːt/",
+    "partOfSpeech": "n.",
+    "definition": "机场，航空港"
+  },
+  {
+    "word": "aisle",
+    "phonetic": "/aɪl/",
+    "partOfSpeech": "n.",
+    "definition": "过道，通道；（教堂、戏院等的）侧廊"
+  },
+  {
+    "word": "alarm",
+    "phonetic": "/əˈlɑːm/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.警报；惊恐，惊慌；报警器 v.使惊恐，使惊慌；向…报警"
+  },
+  {
+    "word": "album",
+    "phonetic": "/ˈælbəm/",
+    "partOfSpeech": "n.",
+    "definition": "相册，影集；集邮册；（音乐）专辑"
+  },
+  {
+    "word": "alcohol",
+    "phonetic": "/ˈælkəhɒl/",
+    "partOfSpeech": "n.",
+    "definition": "酒精，乙醇；含酒精的饮料"
+  },
+  {
+    "word": "alert",
+    "phonetic": "/əˈlɜːt/",
+    "partOfSpeech": "adj./n./v.",
+    "definition": "adj.警觉的，警惕的；机敏的 n.警报；警戒状态 v.使警觉，提醒；警告"
+  },
+  {
+    "word": "alike",
+    "phonetic": "/əˈlaɪk/",
+    "partOfSpeech": "adj./adv.",
+    "definition": "adj.相像的，相似的 adv.相像地，相似地；同样地"
+  },
+  {
+    "word": "alive",
+    "phonetic": "/əˈlaɪv/",
+    "partOfSpeech": "adj.",
+    "definition": "活着的，在世的；有活力的，活跃的；充满的；意识到的"
+  },
+  {
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "partOfSpeech": "adj./pron./adv./n.",
+    "definition": "adj.全部的，所有的；整个的；尽量的 pron.全部，一切；每个人 adv.完全地；都，全部 n.全部，全体；一切"
+  },
+  {
+    "word": "allocate",
+    "phonetic": "/ˈæləkeɪt/",
+    "partOfSpeech": "v.",
+    "definition": "分配，分派；拨给，划归"
+  },
+  {
+    "word": "allow",
+    "phonetic": "/əˈlaʊ/",
+    "partOfSpeech": "v.",
+    "definition": "允许，准许；给予；容许（有…）；承认"
+  },
+  {
+    "word": "allowance",
+    "phonetic": "/əˈlaʊəns/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.津贴，补贴；零用钱；允许，容忍 v.定量供应"
+  },
+  {
+    "word": "ally",
+    "phonetic": "/ˈælaɪ/; /əˈlaɪ/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.同盟国，盟友；支持者 v.（使）结盟，（使）联合"
+  },
+  {
+    "word": "almost",
+    "phonetic": "/ˈɔːlməʊst/",
+    "partOfSpeech": "adv.",
+    "definition": "几乎，差不多"
+  },
+  {
+    "word": "alone",
+    "phonetic": "/əˈləʊn/",
+    "partOfSpeech": "adj./adv.",
+    "definition": "adj.单独的，独自的；唯一的 adv.单独地，独自地；仅仅，只"
+  },
+  {
+    "word": "along",
+    "phonetic": "/əˈlɒŋ/; /əˈlɔːŋ/",
+    "partOfSpeech": "prep./adv.",
+    "definition": "prep.沿着；顺着；靠着…边 adv.向前；一起，一道；沿着"
+  },
+  {
+    "word": "alongside",
+    "phonetic": "/əlɒŋˈsaɪd/; /əlɔːŋˈsaɪd/",
+    "partOfSpeech": "prep./adv.",
+    "definition": "prep.在…旁边；与…一起；与…相比 adv.在旁边，并排地"
+  },
+  {
+    "word": "aloud",
+    "phonetic": "/əˈlaʊd/",
+    "partOfSpeech": "adv.",
+    "definition": "出声地，大声地"
+  },
+  {
+    "word": "alphabet",
+    "phonetic": "/ˈælfəbet/",
+    "partOfSpeech": "n.",
+    "definition": "字母表；字母系统；入门，基础知识"
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔːlˈredi/",
+    "partOfSpeech": "adv.",
+    "definition": "已经，早已；（表示惊奇）还，竟然"
+  },
+  {
+    "word": "also",
+    "phonetic": "/ˈɔːlsəʊ/",
+    "partOfSpeech": "adv./conj.",
+    "definition": "adv.也，亦；而且，此外 conj.并且，又"
+  },
+  {
+    "word": "alter",
+    "phonetic": "/ˈɔːltə(r)/",
+    "partOfSpeech": "v.",
+    "definition": "改变，改动，修改；（使）变样"
+  },
+  {
+    "word": "alternative",
+    "phonetic": "/ɔːlˈtɜːnətɪv/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.可供选择的；替代的；非传统的 n.可供选择的事物；选择，取舍"
+  },
+  {
+    "word": "although",
+    "phonetic": "/ɔːlˈðəʊ/",
+    "partOfSpeech": "conj.",
+    "definition": "虽然，尽管；即使"
+  },
+  {
+    "word": "altitude",
+    "phonetic": "/ˈæltɪtjuːd/; /ˈæltɪtuːd/",
+    "partOfSpeech": "n.",
+    "definition": "高度，海拔；（pl.）高处，高地"
+  },
+  {
+    "word": "altogether",
+    "phonetic": "/ˌɔːltəˈɡeðə(r)/",
+    "partOfSpeech": "adv./n.",
+    "definition": "adv.完全地，全然；总共；总而言之 n.整个，全部"
+  },
+  {
+    "word": "aluminum",
+    "phonetic": "/əˈluːmɪnəm/",
+    "partOfSpeech": "n.",
+    "definition": "铝（英式拼写为 aluminium）"
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːlweɪz/; /ˈɔːlwɪz/",
+    "partOfSpeech": "adv.",
+    "definition": "总是，一直；永远，始终；（用于否定句）无论如何"
+  },
+  {
+    "word": "amateur",
+    "phonetic": "/ˈæmətə(r)/; /ˌæməˈtɜː(r)/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.业余的；外行的 n.业余爱好者；外行，生手"
+  },
+  {
+    "word": "amaze",
+    "phonetic": "/əˈmeɪz/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.使惊奇，使惊愕，使惊诧 n.惊愕，惊奇"
+  },
+  {
+    "word": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
+    "partOfSpeech": "adj./v.",
+    "definition": "adj.令人惊奇的，令人惊愕的，令人惊叹的 v.使惊奇（amaze的现在分词）"
+  },
+  {
+    "word": "ambassador",
+    "phonetic": "/æmˈbæsədə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "大使，使节；（某种活动的）代言人，代表"
+  },
+  {
+    "word": "ambiguous",
+    "phonetic": "/æmˈbɪɡjuəs/",
+    "partOfSpeech": "adj.",
+    "definition": "模棱两可的，含混不清的；不明确的，模糊的"
+  },
+  {
+    "word": "ambition",
+    "phonetic": "/æmˈbɪʃn/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.抱负，雄心，野心；期望得到的东西 v.追求，渴望得到"
+  },
+  {
+    "word": "ambitious",
+    "phonetic": "/æmˈbɪʃəs/",
+    "partOfSpeech": "adj.",
+    "definition": "有抱负的，雄心勃勃的；有野心的；费力的，耗资的"
+  },
+  {
+    "word": "ambulance",
+    "phonetic": "/ˈæmbjələns/",
+    "partOfSpeech": "n.",
+    "definition": "救护车；野战医院"
+  },
+  {
+    "word": "America",
+    "phonetic": "/əˈmerɪkə/",
+    "partOfSpeech": "n.",
+    "definition": "美洲；美国"
+  },
+  {
+    "word": "American",
+    "phonetic": "/əˈmerɪkən/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.美洲的；美国的；美国人的 n.美国人；美洲人"
+  },
+  {
+    "word": "among",
+    "phonetic": "/əˈmʌŋ/",
+    "partOfSpeech": "prep.",
+    "definition": "在…之中，在…之间；被…所围绕；其中之一；为…所共有"
+  },
+  {
+    "word": "amongst",
+    "phonetic": "/əˈmʌŋst/",
+    "partOfSpeech": "prep.",
+    "definition": "（=among）在…之中，在…之间"
+  },
+  {
+    "word": "amount",
+    "phonetic": "/əˈmaʊnt/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.数量，数额；总数，总额；金额 v.合计，共计；等于，相当于"
+  },
+  {
+    "word": "ample",
+    "phonetic": "/ˈæmpl/",
+    "partOfSpeech": "adj.",
+    "definition": "足够的，充足的；大量的；宽敞的，广大的"
+  },
+  {
+    "word": "amuse",
+    "phonetic": "/əˈmjuːz/",
+    "partOfSpeech": "v.",
+    "definition": "逗乐，逗笑；使消遣，使娱乐"
+  },
+  {
+    "word": "analyse",
+    "phonetic": "/ˈænəlaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "（=analyze）分析；分解；解析；研究"
+  },
+  {
+    "word": "analysis",
+    "phonetic": "/əˈnæləsɪs/",
+    "partOfSpeech": "n.",
+    "definition": "分析；分解；解析；分析报告"
+  },
+  {
+    "word": "analyst",
+    "phonetic": "/ˈænəlɪst/",
+    "partOfSpeech": "n.",
+    "definition": "分析者，分析师；化验员"
+  },
+  {
+    "word": "analyze",
+    "phonetic": "/ˈænəlaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "分析；分解；解析；研究"
+  },
+  {
+    "word": "ancestor",
+    "phonetic": "/ˈænsestə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "祖宗，祖先；原型，先驱"
+  },
+  {
+    "word": "anchor",
+    "phonetic": "/ˈæŋkə(r)/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.锚；锚状物；靠山，支柱；主持人 v.抛锚，停泊；使固定，使稳固；主持"
+  },
+  {
+    "word": "ancient",
+    "phonetic": "/ˈeɪnʃənt/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.古代的，古老的；年老的，老式的 n.古人；古币"
+  },
+  {
+    "word": "and",
+    "phonetic": "/ænd/; /ənd/; /n/",
+    "partOfSpeech": "conj./n./adv.",
+    "definition": "conj.和，与；然后；而且；就；但是 n.（计算机）逻辑与；（And）人名 adv.与"
+  },
+  {
+    "word": "anger",
+    "phonetic": "/ˈæŋɡə(r)/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.怒，愤怒；怒气 v.使发怒，激怒；发怒，生气"
+  },
+  {
+    "word": "angle",
+    "phonetic": "/ˈæŋɡl/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.角，角度；立场，观点；方面，层面 v.斜移；倾斜着移动；钓鱼；谋取"
+  },
+  {
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "partOfSpeech": "adj.",
+    "definition": "发怒的，愤怒的；生气的；（天气）恶劣的，狂怒的；（伤口）发炎的"
+  },
+  {
+    "word": "animal",
+    "phonetic": "/ˈænɪml/",
+    "partOfSpeech": "n./adj.",
+    "definition": "n.动物，兽；牲畜；衣冠禽兽，卑劣的人 adj.动物的；肉体的，肉欲的"
+  },
+  {
+    "word": "ankle",
+    "phonetic": "/ˈæŋkl/",
+    "partOfSpeech": "n.",
+    "definition": "踝，踝关节；脚脖子"
+  },
+  {
+    "word": "anniversary",
+    "phonetic": "/ˌænɪˈvɜːsəri/",
+    "partOfSpeech": "n.",
+    "definition": "周年纪念日；周年纪念"
+  },
+  {
+    "word": "announce",
+    "phonetic": "/əˈnaʊns/",
+    "partOfSpeech": "v.",
+    "definition": "宣布，宣告；公布，发布；声称，宣称；预告"
+  },
+  {
+    "word": "announcement",
+    "phonetic": "/əˈnaʊnsmənt/",
+    "partOfSpeech": "n.",
+    "definition": "公告，布告，通告；宣布，宣告；（言行）表明"
+  },
+  {
+    "word": "annoy",
+    "phonetic": "/əˈnɔɪ/",
+    "partOfSpeech": "v.",
+    "definition": "使恼怒，使生气；打扰，干扰"
+  },
+  {
+    "word": "annual",
+    "phonetic": "/ˈænjuəl/",
+    "partOfSpeech": "adj./n.",
+    "definition": "adj.每年的，年度的；一年生的 n.年刊，年报，年鉴；一年生植物"
+  },
+  {
+    "word": "another",
+    "phonetic": "/əˈnʌðə(r)/",
+    "partOfSpeech": "adj./pron.",
+    "definition": "adj.又一的，再一个的；另一的，不同的 pron.另一个，再一个；另一个人，另一个事物"
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈɑːnsə(r)/; /ˈænsər/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.回答，答复；回应；解答；满足；与…相符 n.回答，答复；答案；回应；解决办法"
+  },
+  {
+    "word": "ant",
+    "phonetic": "/ænt/",
+    "partOfSpeech": "n.",
+    "definition": "蚂蚁"
+  },
+  {
+    "word": "anticipate",
+    "phonetic": "/ænˈtɪsɪpeɪt/",
+    "partOfSpeech": "v.",
+    "definition": "预期，预料；预见（并做准备）；期盼，期待；先于…行动"
+  },
+  {
+    "word": "anxiety",
+    "phonetic": "/æŋˈzaɪəti/",
+    "partOfSpeech": "n.",
+    "definition": "焦虑，忧虑；渴望，热望；令人焦虑的事"
+  },
+  {
+    "word": "anxious",
+    "phonetic": "/ˈæŋkʃəs/",
+    "partOfSpeech": "adj.",
+    "definition": "焦虑的，忧虑的；渴望的，急切的；令人焦虑的"
+  },
+  {
+    "word": "any",
+    "phonetic": "/ˈeni/",
+    "partOfSpeech": "adj./pron./adv.",
+    "definition": "adj.任何的；任一的；一点（也），丝毫（也）；（用于否定句、疑问句）若干的 pron.任何一个；无论哪个；若干 adv.（用于否定句、疑问句）丝毫，任何；（用于条件句）无论什么"
+  },
+  {
+    "word": "anybody",
+    "phonetic": "/ˈenibɒdi/; /ˈenibɑːdi/",
+    "partOfSpeech": "pron./n.",
+    "definition": "pron.任何人，无论谁；随便哪个人 n.重要人物，有名气的人"
+  },
+  {
+    "word": "anyhow",
+    "phonetic": "/ˈenihaʊ/",
+    "partOfSpeech": "adv.",
+    "definition": "总之，无论如何；不管怎样，反正；以任何方式，随便地"
+  },
+  {
+    "word": "anyone",
+    "phonetic": "/ˈeniwʌn/",
+    "partOfSpeech": "pron.",
+    "definition": "任何人，无论谁；随便哪个人"
+  },
+  {
+    "word": "anything",
+    "phonetic": "/ˈeniθɪŋ/",
+    "partOfSpeech": "pron./n./adv.",
+    "definition": "pron.任何事物，任何东西；重要事物；（用于否定句、疑问句）任何事物 n.重要的事物（或人） adv.根本，究竟"
+  },
+  {
+    "word": "anyway",
+    "phonetic": "/ˈeniweɪ/",
+    "partOfSpeech": "adv.",
+    "definition": "无论如何，不管怎样；反正，尽管；至少；而且，加之"
+  },
+  {
+    "word": "anywhere",
+    "phonetic": "/ˈeniweə(r)/; /ˈeniwer/",
+    "partOfSpeech": "adv./n.",
+    "definition": "adv.在（或去）任何地方；无论何处；（用于否定句、疑问句）根本（不） n.任何地方"
+  },
+  {
+    "word": "apart",
+    "phonetic": "/əˈpɑːt/; /əˈpɑːrt/",
+    "partOfSpeech": "adv./adj./prep.",
+    "definition": "adv.分开，分离；相距；成碎片；单独地 adj.分离的，分开的 prep.除去，撇开"
+  },
+  {
+    "word": "apartment",
+    "phonetic": "/əˈpɑːtmənt/; /əˈpɑːrtmənt/",
+    "partOfSpeech": "n.",
+    "definition": "公寓套房；（美）公寓大楼；（英）房间"
+  },
+  {
+    "word": "apologize",
+    "phonetic": "/əˈpɒlədʒaɪz/; /əˈpɑːlədʒaɪz/",
+    "partOfSpeech": "v.",
+    "definition": "道歉，认错；辩解，辩护"
+  },
+  {
+    "word": "apology",
+    "phonetic": "/əˈpɒlədʒi/; /əˈpɑːlədʒi/",
+    "partOfSpeech": "n.",
+    "definition": "道歉，认错；辩解，辩护；歉意"
+  },
+  {
+    "word": "apparent",
+    "phonetic": "/əˈpærənt/",
+    "partOfSpeech": "adj.",
+    "definition": "显然的，明显的；表面上的，貌似的"
+  },
+  {
+    "word": "appeal",
+    "phonetic": "/əˈpiːl/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.呼吁，恳求；上诉，申诉；有吸引力，引起兴趣；诉诸，求助于 n.呼吁，恳求；上诉，申诉；吸引力，感染力；（体育）诉请裁决"
+  },
+  {
+    "word": "appear",
+    "phonetic": "/əˈpɪə(r)/; /əˈpɪr/",
+    "partOfSpeech": "v.",
+    "definition": "出现，显现；看起来，似乎；出庭，到场；出版，发表"
+  },
+  {
+    "word": "appearance",
+    "phonetic": "/əˈpɪərəns/; /əˈpɪrəns/",
+    "partOfSpeech": "n.",
+    "definition": "出现，露面；外貌，外观；外表，表象；出版，发表"
+  },
+  {
+    "word": "appendix",
+    "phonetic": "/əˈpendɪks/",
+    "partOfSpeech": "n.",
+    "definition": "附录，附件；阑尾"
+  },
+  {
+    "word": "appetite",
+    "phonetic": "/ˈæpətaɪt/",
+    "partOfSpeech": "n.",
+    "definition": "食欲，胃口；欲望，爱好；兴趣"
+  },
+  {
+    "word": "applaud",
+    "phonetic": "/əˈplɔːd/",
+    "partOfSpeech": "v.",
+    "definition": "鼓掌，喝彩；称赞，赞许"
+  },
+  {
+    "word": "applause",
+    "phonetic": "/əˈplɔːz/",
+    "partOfSpeech": "n.",
+    "definition": "鼓掌，喝彩；称赞，赞赏"
+  },
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpl/",
+    "partOfSpeech": "n.",
+    "definition": "苹果；苹果树"
+  },
+  {
+    "word": "application",
+    "phonetic": "/ˌæplɪˈkeɪʃn/",
+    "partOfSpeech": "n.",
+    "definition": "申请，申请表；应用，运用；涂抹，敷用；应用软件"
+  },
+  {
+    "word": "apply",
+    "phonetic": "/əˈplaɪ/",
+    "partOfSpeech": "v.",
+    "definition": "申请，请求；应用，运用；涂，敷；适用；致力于，集中精力于"
+  },
+  {
+    "word": "appoint",
+    "phonetic": "/əˈpɔɪnt/",
+    "partOfSpeech": "v.",
+    "definition": "任命，委派；指定，约定（时间、地点）；安排，确定"
+  },
+  {
+    "word": "appointment",
+    "phonetic": "/əˈpɔɪntmənt/",
+    "partOfSpeech": "n.",
+    "definition": "任命，委派；约会，预约；职位，职务；（财产等的）处置安排"
+  },
+  {
+    "word": "appreciate",
+    "phonetic": "/əˈpriːʃieɪt/",
+    "partOfSpeech": "v.",
+    "definition": "欣赏，赏识；感激，感谢；领会，体会；重视，珍视；增值"
+  },
+  {
+    "word": "approach",
+    "phonetic": "/əˈprəʊtʃ/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.靠近，接近；接洽，打交道；着手处理，探讨 n.方法，方式；接近，靠近；路径，道路；接洽，建议"
+  },
+  {
+    "word": "appropriate",
+    "phonetic": "/əˈprəʊpriət/; /əˈprəʊprieɪt/",
+    "partOfSpeech": "adj./v.",
+    "definition": "adj.适当的，恰当的；合适的 v.挪用，盗用；占用，侵吞；拨出（款项等）供专用"
+  },
+  {
+    "word": "approval",
+    "phonetic": "/əˈpruːvl/",
+    "partOfSpeech": "n.",
+    "definition": "赞成，同意；批准，认可；（商品）试用，包退包换"
+  },
+  {
+    "word": "approve",
+    "phonetic": "/əˈpruːv/",
+    "partOfSpeech": "v.",
+    "definition": "赞成，同意；批准，认可；核准，通过"
+  },
+  {
+    "word": "approximate",
+    "phonetic": "/əˈprɒksɪmət/; /əˈprɒksɪmeɪt/",
+    "partOfSpeech": "adj./v.",
+    "definition": "adj.近似的，大约的 v.近似，接近；粗略估计"
+  },
+  {
+    "word": "approximately",
+    "phonetic": "/əˈprɒksɪmətli/",
+    "partOfSpeech": "adv.",
+    "definition": "大约，近似地，大概"
+  },
+  {
+    "word": "apron",
+    "phonetic": "/ˈeɪprən/",
+    "partOfSpeech": "n.",
+    "definition": "围裙；（机场的）停机坪；（舞台的）台口"
+  },
+  {
+    "word": "arbitrary",
+    "phonetic": "/ˈɑːbɪtrəri/",
+    "partOfSpeech": "adj.",
+    "definition": "任意的，随意的；专横的，武断的；霸道的"
+  },
+  {
+    "word": "arch",
+    "phonetic": "/ɑːtʃ/",
+    "partOfSpeech": "n./v./adj.",
+    "definition": "n.拱，拱门；拱形物；足弓 v.拱起，使成拱形；（因痛苦、微笑等）弯（腰） adj.调皮的，淘气的"
+  },
+  {
+    "word": "architect",
+    "phonetic": "/ˈɑːkɪtekt/",
+    "partOfSpeech": "n.",
+    "definition": "建筑师；设计师；缔造者，创造者"
+  },
+  {
+    "word": "architecture",
+    "phonetic": "/ˈɑːkɪtektʃə(r)/",
+    "partOfSpeech": "n.",
+    "definition": "建筑学，建筑设计；建筑风格，建筑式样；结构，体系；架构"
+  },
+  {
+    "word": "area",
+    "phonetic": "/ˈeəriə/; /ˈeriə/",
+    "partOfSpeech": "n.",
+    "definition": "面积；地区，区域；领域，范围；场地，区"
+  },
+  {
+    "word": "argue",
+    "phonetic": "/ˈɑːɡjuː/",
+    "partOfSpeech": "v.",
+    "definition": "争论，争辩，争吵；论证，说理；说服，劝说；表明，证明"
+  },
+  {
+    "word": "argument",
+    "phonetic": "/ˈɑːɡjumənt/",
+    "partOfSpeech": "n.",
+    "definition": "争论，争吵，辩论；论据，理由，论点；说理，论证"
+  },
+  {
+    "word": "arise",
+    "phonetic": "/əˈraɪz/",
+    "partOfSpeech": "v.",
+    "definition": "出现，产生，兴起；起身，起床；（由…）引起，起源于；上升，升起"
+  },
+  {
+    "word": "arithmetic",
+    "phonetic": "/əˈrɪθmətɪk/",
+    "partOfSpeech": "n./adj.",
+    "definition": "n.算术，计算；算法 adj.算术的，算术上的"
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑːm/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.臂，手臂；扶手；臂状物；（pl.）武器，军火 v.武装，装备；备战，准备"
+  },
+  {
+    "word": "army",
+    "phonetic": "/ˈɑːmi/",
+    "partOfSpeech": "n.",
+    "definition": "军队，陆军；大群，大批"
+  },
+  {
+    "word": "around",
+    "phonetic": "/əˈraʊnd/",
+    "partOfSpeech": "prep./adv.",
+    "definition": "prep.围绕，环绕；在…周围；大约；遍及；以…为中心 adv.大约；周围，四周；到处，各处；旋转"
+  },
+  {
+    "word": "arouse",
+    "phonetic": "/əˈraʊz/",
+    "partOfSpeech": "v.",
+    "definition": "激起，引起（感情、态度）；唤醒，叫醒；使行动起来"
+  },
+  {
+    "word": "arrange",
+    "phonetic": "/əˈreɪndʒ/",
+    "partOfSpeech": "v.",
+    "definition": "安排，筹备；整理，排列；改编（乐曲等）；商定，达成协议"
+  },
+  {
+    "word": "arrangement",
+    "phonetic": "/əˈreɪndʒmənt/",
+    "partOfSpeech": "n.",
+    "definition": "安排，筹备；整理，排列；改编曲；商定，协议"
+  },
+  {
+    "word": "arrest",
+    "phonetic": "/əˈrest/",
+    "partOfSpeech": "v./n.",
+    "definition": "v.逮捕，拘捕；阻止，抑制；吸引（注意力） n.逮捕，拘捕；停止，终止"
+  },
+  {
+    "word": "arrival",
+    "phonetic": "/əˈraɪvl/",
+    "partOfSpeech": "n.",
+    "definition": "到达，抵达；到达者，抵达物；出现，问世"
+  },
+  {
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "partOfSpeech": "v.",
+    "definition": "到达，抵达；（时间、事件）到来，发生；成功，成名；达到，达成"
+  },
+  {
+    "word": "arrow",
+    "phonetic": "/ˈærəʊ/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.箭；箭头；箭状物；箭头符号 v.射箭；箭一般地飞向"
+  },
+  {
+    "word": "art",
+    "phonetic": "/ɑːt/",
+    "partOfSpeech": "n./adj./v.",
+    "definition": "n.艺术，美术；艺术品；技术，技巧；文科 adj.艺术的；艺术品的 v.（把…）装饰得古色古香"
+  },
+  {
+    "word": "article",
+    "phonetic": "/ˈɑːtɪkl/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.文章，论文；物品，物件；条款，条文；冠词 v.订约将…收为学徒（或徒弟）；指控"
+  },
+  {
+    "word": "artificial",
+    "phonetic": "/ˌɑːtɪˈfɪʃl/",
+    "partOfSpeech": "adj.",
+    "definition": "人工的，人造的；人为的，虚假的；矫揉造作的"
+  },
+  {
+    "word": "artist",
+    "phonetic": "/ˈɑːtɪst/",
+    "partOfSpeech": "n.",
+    "definition": "艺术家，美术家；能手，大师；艺人"
+  },
+  {
+    "word": "artistic",
+    "phonetic": "/ɑːˈtɪstɪk/",
+    "partOfSpeech": "adj.",
+    "definition": "艺术的，美术的；有艺术天赋的；精美的，艺术性强的"
+  },
+  {
+    "word": "as",
+    "phonetic": "/æz/; /əz/",
+    "partOfSpeech": "adv./prep./conj./pron.",
+    "definition": "adv.和…一样；如同；例如 prep.作为，当作；像，如同；当…时 conj.当…时；因为，由于；正如；虽然，尽管 pron.和…一样的人（或事物）"
+  },
+  {
+    "word": "ash",
+    "phonetic": "/æʃ/",
+    "partOfSpeech": "n./v.",
+    "definition": "n.灰，灰烬；（pl.）骨灰，遗骸；白蜡树 v.把…化为灰烬；撒灰于"
+  },
+  {
+    "word": "ashamed",
+    "phonetic": "/əˈʃeɪmd/",
+    "partOfSpeech": "adj.",
+    "definition": "惭愧的，羞愧的；感到尴尬的；因…而感到羞耻"
+  },
+  {
+    "word": "aside",
+    "phonetic": "/əˈsaɪd/",
+    "partOfSpeech": "adv./n./prep.",
+    "definition": "adv.在旁边，到一边；撇开（不谈）；除…之外 n.旁白；私语，悄悄话；离题的话 prep.在…旁边"
+  },
+  {
+    "word": "ask",
+    "phonetic": "/ɑːsk/; /æsk/",
+    "partOfSpeech": "v.",
+    "definition": "问，询问；请求，要求；邀请；打听；索要"
+  },
+  {
+    "word": "asleep",
+    "phonetic": "/əˈsliːp/",
+    "partOfSpeech": "adj./adv.",
+    "definition": "adj.睡着的；休眠的；麻木的 adv.睡着；进入睡眠状态"
+  },
+  {
+    "word": "aspect",
+    "phonetic": "/ˈæspekt/",
+    "partOfSpeech": "n.",
+    "definition": "方面；面貌，外观；（语法）体；（建筑物的）朝向"
+  },
+  {
+    "word": "assemble",
+    "phonetic": "/əˈsembl/",
+    "partOfSpeech": "v.",
+    "definition": "集合，聚集；装配，组装
